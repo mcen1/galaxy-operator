@@ -15,5 +15,6 @@
   group: galaxy.ansible.com
   kind: GalaxyRestore
   role: restore
+
   
 # +kubebuilder:scaffold:watch
